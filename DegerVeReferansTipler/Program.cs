@@ -24,7 +24,6 @@ namespace DegerVeReferansTipler
 
 
         //int, decimal, float, double, bool = değer tip
-
         // array, class, interpare = referans tip
 
         //bellekte 'stack' ve 'heap' denen iki bellek var. 'Değer tip'ler sadece 'stack' de çalışır.
